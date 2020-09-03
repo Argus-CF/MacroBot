@@ -1,2 +1,2 @@
 # MacroBot
-Discord bot for Coiled Fist
+Bot for Macro Discord

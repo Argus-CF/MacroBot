@@ -1,0 +1,16 @@
+{
+  "name": "macrobot",
+  "version": "1.0.0",
+  "description": "Bot for Macro Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Argus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
